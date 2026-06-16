@@ -2,7 +2,7 @@
 new code made
 <div align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-wave.gif?1531849430" alt="Wave Emoji" width="70"/>
-  <h1>👋 Hi there, I'm Mohammed !</h1>
+  <h1>👋 Hi there, I'm hetwal !</h1>
 </div>
 ---
 
